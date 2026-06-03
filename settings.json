@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "HI, GAB MADE ME!",
+        "Boost Our Server HERTZ",
+        "I Keep This Server UP 24/7"
       ]
     },
     "chat-log": true,
@@ -59,7 +59,7 @@
   },
   "modules": {
     "avoidMobs": true,
-    "combat": true,
+    "combat": false,
     "beds": false,
     "chat": true,
     "console-commands": true
